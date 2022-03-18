@@ -2222,17 +2222,26 @@ PRODUCT_PACKAGES += \
     SoterService \
     HotwordEnrollmentOKGoogleCORTEXM4 \
     HotwordEnrollmentXGoogleCORTEXM4 \
+    mediatek-common \
+    mediatek-framework \
+    mediatek-ims-base \
+    mediatek-ims-common \
+    mediatek-telecom-common \
+    mediatek-telephony-base \
+    mediatek-telephony-common \
+    mediatek-ims-extension-plugin \
+    mediatek-ims-legacy \
     com.android.hotwordenrollment.common.util \
-    android.hardware.biometrics.fingerprint@2.1-service \
-    android.hardware.gpu@1.0-service \
-    android.hardware.neuralnetworks@1.3-service-mtk-dsp-gpu \
-    android.hardware.wifi.hostapd \
-    android.hardware.wifi@1.0-service \
-    fp_manifest \
-    lights-mtk-default \
+    manifest_android.hardware.biometrics.fingerprint@2.1-service \
+    manifest_android.hardware.gpu@1.0-service \
+    manifest_android.hardware.neuralnetworks@1.3-service-mtk-dsp-gpu \
+    manifest_android.hardware.wifi.hostapd \
+    manifest_android.hardware.wifi@1.0-service \
+    manifest_fp_manifest \
+    manifest_lights-mtk-default \
     manifest_android.hardware.drm@1.3-service.widevine \
     manifest_vendor.xiaomi.hardware.mtdservice \
-    power-default \
-    vendor.mediatek.hardware.dplanner@2.0-service \
-    vendor.xiaomi.hardware.micharge@1.0 \
-    vibrator-mtk-default
+    manifest_power-default \
+    manifest_vendor.mediatek.hardware.dplanner@2.0-service \
+    manifest_vendor.xiaomi.hardware.micharge@1.0 \
+    manifest_vibrator-mtk-default
