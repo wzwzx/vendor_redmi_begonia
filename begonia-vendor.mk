@@ -2205,15 +2205,6 @@ PRODUCT_PACKAGES += \
     SoterService \
     HotwordEnrollmentOKGoogleCORTEXM4 \
     HotwordEnrollmentXGoogleCORTEXM4 \
-    mediatek-common \
-    mediatek-framework \
-    mediatek-ims-base \
-    mediatek-ims-common \
-    mediatek-ims-extension-plugin \
-    mediatek-ims-legacy \
-    mediatek-telecom-common \
-    mediatek-telephony-base \
-    mediatek-telephony-common \
     com.android.hotwordenrollment.common.util \
     android.hardware.biometrics.fingerprint@2.1-service \
     android.hardware.gpu@1.0-service \
